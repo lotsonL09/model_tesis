@@ -1,5 +1,13 @@
 /venv2
 /tiny-imagenet-200
+<<<<<<< HEAD
+/data_500
+=======
 /data
+<<<<<<< HEAD
 /data_2000
 /model_data
+=======
+>>>>>>> bf5782e6b3f8f75acefc7646dbfd7a43ecfb6dc3
+/data_2000
+>>>>>>> 24cf7e92d16995a80bc4e79d6e2255ea63d9a0a2
